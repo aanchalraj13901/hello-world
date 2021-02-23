@@ -3,6 +3,6 @@
 #include <conio.h>
 void main()
 {
-cout<<" I Love Music...";
+cout<<" Hello world...";
 getch();
 }
